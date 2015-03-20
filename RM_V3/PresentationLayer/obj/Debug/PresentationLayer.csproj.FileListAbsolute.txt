@@ -1,0 +1,10 @@
+C:\Users\dongc_000\Documents\Visual Studio 2013\Projects\RM3\PresentationLayer\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\dongc_000\Documents\Visual Studio 2013\Projects\RM3\PresentationLayer\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\dongc_000\Documents\Visual Studio 2013\Projects\RM3\PresentationLayer\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\dongc_000\Documents\Visual Studio 2013\Projects\RM3\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.csprojResolveAssemblyReference.cache
+C:\Users\dongc_000\Documents\Visual Studio 2013\Projects\RM3\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\dongc_000\Documents\Visual Studio 2013\Projects\RM3\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.Cache
+C:\Users\dongc_000\Documents\Visual Studio 2013\Projects\RM3\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\dongc_000\Documents\Visual Studio 2013\Projects\RM3\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\dongc_000\Documents\Visual Studio 2013\Projects\RM3\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.Login.resources
+C:\Users\dongc_000\Documents\Visual Studio 2013\Projects\RM3\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.RM.resources
